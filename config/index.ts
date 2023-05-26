@@ -1,6 +1,6 @@
 import { AppInfo } from "@/types/app"
-export const APP_ID = ''
-export const API_KEY = ''
+export const APP_ID = '7e084c4f-13bd-42d7-857c-e7dda256d5b9'
+export const API_KEY = 'app-4hzUQBZi47NWCTgZUBQexpqx'
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
   "title": 'Chat APP',
@@ -18,3 +18,5 @@ export const API_PREFIX = '/api';
 export const LOCALE_COOKIE_NAME = 'locale'
 
 export const DEFAULT_VALUE_MAX_LEN = 48
+
+
